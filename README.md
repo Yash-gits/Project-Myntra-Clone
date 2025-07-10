@@ -181,6 +181,9 @@ For DockerHub
    -  Give the username and password and give your `Dockerhub username` and `Dockerhub Password` id is `docker`.
    -  Click Save
 
+ For GitHub
+   - Go to [Github].(https://github.com/settings/tokens) create a classic token and check repo and workflows access to the token
+   - Remember this token as it won't show up later, Give username yashgits:(followed by this token as a password)  
 
 - Jenkins Pipeline
 
