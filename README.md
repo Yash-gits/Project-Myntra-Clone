@@ -360,9 +360,8 @@ eksctl delete cluster --name my-ekscluster --region ap-southeast-1
 ### Configure ArgoCD
 ````
 
-````
 Create a namespace:
-
+````
 ```bash
 kubectl create namespace argocd
 ```
