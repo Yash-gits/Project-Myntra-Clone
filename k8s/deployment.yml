@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myntra
-        image: yashshende22/myntraa:34
+        image: yashshende22/myntra:11
         ports:
         - containerPort: 3000   # Use port 3000
 
