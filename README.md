@@ -1,4 +1,4 @@
-# MYntra Clone
+# Myntra-Clone
 
 Prerequisites:
 
