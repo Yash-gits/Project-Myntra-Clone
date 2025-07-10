@@ -356,10 +356,11 @@ eksctl delete cluster --name my-ekscluster --region ap-southeast-1
 
 ````
 **Note:** check your region while creating eks cluster
-
+````
 ### Configure ArgoCD
+````
 
-
+````
 Create a namespace:
 
 ```bash
